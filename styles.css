@@ -23,5 +23,17 @@ main {
     box-shadow: 10px 10px 10px grey;
 }
 img {
-    border-radius: 1000px;
+    max-width: 200px;
+    border-radius: 50%;
+}
+div {
+    border: 10px solid wheat;
+    text-align: justify;
+    margin: 20px;
+    border-radius: 20px;
+}
+p {
+    text-align: center;
+    text-align: justify;
+    margin: 30px;
 }
